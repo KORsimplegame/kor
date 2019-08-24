@@ -1,3 +1,5 @@
+__author__ = 'fnfn9947@naver.com'
+
 import pygame
 import sys
 import random
